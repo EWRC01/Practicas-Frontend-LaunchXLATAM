@@ -1,0 +1,1 @@
+En este repos, estaran publicadas las pracricas hechas en el curso impartido por Microsoft en colaboración con Innovación Virtual
